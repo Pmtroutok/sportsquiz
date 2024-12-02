@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.26f1
+CRC: 2996417703
+HashAppended: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: details/flags
+      Dependencies: {}
+    Info_1:
+      Name: details/localizations
+      Dependencies: {}
+    Info_2:
+      Name: details/settings
+      Dependencies: {}

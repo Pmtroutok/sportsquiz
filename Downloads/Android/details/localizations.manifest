@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.26f1
+CRC: 2040575991
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2834ff87b812da471d65085d04fe328c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dbb680002effce3ced8502774b1b5f08
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bd426c32f1e18432a0e26eb75d60c650
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: ae28374fa1d28e84d89ef31a27fdba89, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: .Category
+- AssemblyName: Assembly-CSharp
+  ClassName: .Level
+- AssemblyName: Assembly-CSharp
+  ClassName: .LocalizationItem
+- AssemblyName: Assembly-CSharp
+  ClassName: .SubCategory
+Assets:
+- Assets/PictureQuizPlus/Resources/details/localizations/english.asset
+- Assets/PictureQuizPlus/Resources/details/localizations/deutsch.asset
+- Assets/PictureQuizPlus/Resources/details/localizations/french.asset
+Dependencies: []
