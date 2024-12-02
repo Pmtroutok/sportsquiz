@@ -1,0 +1,59 @@
+1 - Syl Apps
+2 - Jean Beliveau
+3 - Max Bentley
+4 - Toe Blake
+5 - Johnny Bower
+6 - Chris Chelios
+7 - King Clancy
+8 - Paul Coffey
+9 - Charlie Conacher
+10 - Sidney Crosby
+11 - Pavel Datsyuk
+12 - Alex Delvecchio
+13 - Bill Durnan
+14 - Phil Esposito
+15 - Peter Forsberg
+16 - Ron Francis
+17 - Grant Fuhr
+18 - Bob Gainey
+19 - Mike Gartner
+20 - Doug Harvey
+21 - Dominik Hasek
+22 - Bobby Hull
+23 - Brett Hull
+24 - Red Kelly
+25 - Ted Kennedy
+26 - Jari Kurri
+27 - Jacques Lemaire
+28 - Mario Lemieux
+29 - Frank Mahovlich
+30 - Mark Messier
+31 - Stan Mikita
+32 - Mike Modano
+33 - Howie Morenz
+34 - Adam Oates
+35 - Alex Ovechkin
+36 - Jacques Plante
+37 - Jean Ratelle
+38 - Maurice Richard
+39 - Larry Robinson
+40 - Luc Robitaille
+41 - Patrick Roy
+42 - Denis Savard
+43 - Serge Savard
+44 - Milt Schmidt
+45 - Teemu Selanne
+46 - Brendan Shanahan
+47 - Peter Stastny
+48 - Mats Sundin
+49 - Bryan Trottier
+50 - Georges Vezina
+51 - Random Ice Cream Flavors
+52 - Random Tennis Players
+53 - Random Football Players
+54 - Random Rugby Players
+55 - Random Volleyball Players
+56 - Random Cricket Players
+57 - Random NBA Player Generator
+58 - Random Nfl Player Generator
+59 - Random Premier League Players Generator
